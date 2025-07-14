@@ -1,5 +1,5 @@
 # Data Coompiler Tool
-Tool which can compilr multiple excel files data in a single workbook
+Tool which can compile multiple excel files data in a single workbook
 
 Built a tool using Excel-VBA to consolidate and clean data from multiple workbooks, reducing manual processing time by 90%. Added features like folder picker, dynamic row tracking, and duplicate removal
 
